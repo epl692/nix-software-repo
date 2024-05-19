@@ -1,3 +1,3 @@
 {
-	hole-calc = import ./hole-calc/calc.nix;
+	hole-calc = import ./hole-calc/default.nix;
 }
