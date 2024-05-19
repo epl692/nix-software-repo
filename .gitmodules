@@ -1,0 +1,3 @@
+[submodule "hole-calc"]
+	path = hole-calc
+	url = https://github.com/epl692/hole-calc.git
